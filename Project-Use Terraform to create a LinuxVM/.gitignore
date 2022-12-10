@@ -1,0 +1,5 @@
+.terraform/
+.terraform.lock.hcl
+id_rsa
+main.destroy.tfplan
+main.tfplan
