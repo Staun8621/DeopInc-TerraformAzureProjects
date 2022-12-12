@@ -1,6 +1,6 @@
 # In this project, I demonstrate how to:
 
-## Use Terraform to create a Linux VM
+## Use Terraform to create a Linux VM in Azure
 
 ### I will deploy a Linux virtual machine (VM) with infrastructure that includes a virtual network, subnet, public IP address, and more.
 
